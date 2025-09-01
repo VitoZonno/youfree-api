@@ -9,7 +9,7 @@ export default async function handler(req, res) {
       method: 'GET',
       headers: {
         'X-RapidAPI-Host': 'youtube-media-extractor.p.rapidapi.com',
-        'X-RapidAPI-Key': 'INSERISCI_LA_TUA_RAPIDAPI_KEY'
+        'X-RapidAPI-Key': '4425005d50msh54ced056f57a603p191ef8jsnb454a6458d79'
       }
     };
 
